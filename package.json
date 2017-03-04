@@ -1,0 +1,10 @@
+{
+  "name": "hack-the-planet",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "~1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.15.0"
+  }
+}
